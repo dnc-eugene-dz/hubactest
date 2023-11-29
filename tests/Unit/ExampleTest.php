@@ -1,5 +1,5 @@
 <?php
 
-it('test_that_true_is_true', function () {
+it('test_that_true_is_true', function() {
     $this->assertTrue(true);
 });
